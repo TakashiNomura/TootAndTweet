@@ -1,4 +1,4 @@
-# TootAndTweet
+# Toot And Tweet
 
 Toot And Tweet on commandline.
 
